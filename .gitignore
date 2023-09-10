@@ -7,3 +7,5 @@ manage.py
 __pycache__
 db.sqlite3
 media
+tmp
+passenger_wsgi.py
